@@ -1,2 +1,3 @@
-# advent-of-code-2019
-Solutions to the 2019 "Advent of Code" challenge (https://adventofcode.com/)
+# advent-of-code-2020
+
+Solutions to the 2020 "Advent of Code" challenge (https://adventofcode.com/)

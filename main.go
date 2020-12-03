@@ -20,6 +20,8 @@ func tryProblem(name string, actual int, expected int) {
 func runProblems() {
 	tryProblem("01-A", problem01A("./data/day01.txt"), 878724)
 	tryProblem("01-B", problem01B("./data/day01.txt"), 201251610)
+	tryProblem("02-A", problem02A("./data/day02.txt"), 643)
+	tryProblem("02-B", problem02B("./data/day02.txt"), 388)
 }
 
 func main() {

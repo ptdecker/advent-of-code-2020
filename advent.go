@@ -22,6 +22,8 @@ func runProblems() {
 	tryProblem("01-B", problem01B("./data/day01.txt"), 201251610)
 	tryProblem("02-A", problem02A("./data/day02.txt"), 643)
 	tryProblem("02-B", problem02B("./data/day02.txt"), 388)
+	tryProblem("03-A", problem03A("./data/day03.txt"), 286)
+	tryProblem("03-B", problem03B("./data/day03.txt"), 286)
 }
 
 func main() {
